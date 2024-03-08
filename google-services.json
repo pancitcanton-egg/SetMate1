@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881886028562",
+    "firebase_url": "https://setmate-db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "setmate-db",
+    "storage_bucket": "setmate-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881886028562:android:1982444254c184fc5409cb",
+        "android_client_info": {
+          "package_name": "com.setmate.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881886028562-qi8sovg8r417g1qc71uu4c5b523ca6ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.setmate.www",
+            "certificate_hash": "e2d9f10899b1c154c15e461218de9a4b0e7b97ac"
+          }
+        },
+        {
+          "client_id": "881886028562-n9vdltkvs602d9qimhbm2l4977563o0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzybji3fO-anvqyqiKMQO3TXl3l1GRBnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881886028562-n9vdltkvs602d9qimhbm2l4977563o0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
